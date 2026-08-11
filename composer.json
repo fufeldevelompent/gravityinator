@@ -1,0 +1,4 @@
+{
+  "name": "doof/gravityinator",
+  "autoload": { "psr-4": { "Doof\\Gravity\\": "src/" } }
+}
